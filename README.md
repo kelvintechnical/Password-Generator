@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Python Password Generator Web Application
 
 ## Description
@@ -34,4 +32,3 @@ bash
 Copy code
 python app.py
 Once the server is running, open your browser and navigate to http://127.0.0.1:5000/.
-
