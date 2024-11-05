@@ -12,7 +12,7 @@ To run this project, ensure that Python and Flask are installed on your system. 
 pip install Flask
 
 
-Installation
+### Installation
 Clone the repository to your local machine:
 
 bash
