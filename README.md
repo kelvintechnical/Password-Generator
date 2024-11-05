@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Password Generator Web Application README</title>
-</head>
+
 <body>
     <h1>Python Password Generator Web Application</h1>
     <p>This project is a Python-based web application developed using Flask. The purpose of this application is to generate secure passwords based on a specified length, enhancing user data protection by offering customized password options. This project demonstrates skills in Python, Flask, web development basics, and user interaction handling.</p>
