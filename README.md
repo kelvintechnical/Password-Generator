@@ -10,3 +10,12 @@ To run this project, ensure that Python and Flask are installed on your system. 
 
 ```bash
 pip install Flask
+
+
+Installation
+Clone the repository to your local machine:
+
+bash
+Copy code
+git clone https://github.com/yourusername/Password-Generator.git
+cd Password-Generator
